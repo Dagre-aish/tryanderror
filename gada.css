@@ -1,0 +1,8 @@
+<link rel="stylesheet" href="gada.css"
+
+img{
+    opacity: 50%;
+}
+img:hover{
+    opacity: 100%;
+}

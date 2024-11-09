@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="style.css"
+
+tr{
+ color: white;
+}
+p{
+    color: red;
+}
+h1{
+    text-shadow: 2px 2px 5px white, 6px 6px 3px rgb(255, 89, 0);
+    color: whitesmoke;
+    text-align: 0px;
+}
+
+*{
+    box-sizing: border-box;
+}
+.column{
+    float:left;
+    width: 33.33%;
+    padding: 5px;
+}
+.row:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+td{
+    font: bolder
+    color: rgb(255, 255, 255);
+}
+td{
+    text-shadow: 2px 2px 2px gold;
+    color: whitesmoke;
+}
+td:hover{
+    box-shadow: 4px 4px 4px goldenrod;
+}
+
+img{
+    opacity: 50%;
+}
+img:hover{
+    opacity: 150%;
+}
+h2{
+    text-shadow: 2px 2px 5px white, 6px 6px 3px rgb(255, 89, 0);
+    color: whitesmoke;
+    text-align: 0px;
+}
